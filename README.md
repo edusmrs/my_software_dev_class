@@ -1,7 +1,7 @@
 ### 📚 **Laboratório de Desenvolvimento de Software**
 
 * **Professor(a):** [Ricardo Frohlich da Silva]
-* **Código da Disciplina:** [G04E2]
+* **Código da Disciplina:** [G02M4]
 * **Horário:** [7:40 - 11:15]
 ---
 
